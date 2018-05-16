@@ -42,3 +42,7 @@ Installation
 It is already been converted to .exe for you
 
 Link: https://drive.google.com/open?id=179v1dGrExsVm_qWKJkEqrM-x-07RZAJd
+
+
+
+P.S: You should allow less secure apps on your gmail account (https://myaccount.google.com/lesssecureapps)
