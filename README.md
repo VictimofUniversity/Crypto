@@ -16,6 +16,8 @@ The particular choice of characters to make up the 64 characters required for ba
 
 Base64 Encoding Table
 Value	Char	 	Value	Char	 	Value	Char	 	Value	Char
+
+
 0	A	 	16	Q	 	32	g	 	48	w
 1	B	 	17	R	 	33	h	 	49	x
 2	C	 	18	S	 	34	i	 	50	y
