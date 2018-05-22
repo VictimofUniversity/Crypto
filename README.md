@@ -39,7 +39,7 @@ Value	Char	 	Value	Char	 	Value	Char	 	Value	Char
 Installation
 ============
 
-It is already been converted to .exe for you
+It is already been converted to exe. Also we'are working on freezing all packages which we used
 
 Link: https://drive.google.com/open?id=179v1dGrExsVm_qWKJkEqrM-x-07RZAJd
 
